@@ -4,3 +4,4 @@ uploads/*.*
 .ipynb_checkpoints/
 /*.traineddata
 /vscode.bat
+/result.pdf
